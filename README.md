@@ -1,4 +1,4 @@
-This project is about Management System-->
+This project is about "Bank Management System"-->
 Where:
 
 User⇒                                                                                         
